@@ -1,0 +1,83 @@
+body{
+    background: linear-gradient(rgb(98, 68, 13),black);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: white;
+    padding: 1rem;
+}
+
+/* header */
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items:center; 
+}
+
+/* h1 text in the header */
+header h2{
+ color: orange;
+}
+
+/* our menu nav  */
+nav {
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    gap: 1rem;
+}
+/* nav list (li) */
+nav li{
+    list-style: none;
+}
+
+/* nav anchor tag (A) */
+nav li a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+/* header button */
+button{
+    text-decoration: none;
+    color: whitesmoke;
+}
+/* header button */
+button{
+    padding: 1rem 2rem;
+    border-radius: 1rem;
+    background: rgb(255, 178, 36);
+    border: none;
+}
+
+/* hero section */
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+.hero-text h3 {
+    font-size: 1rem;
+}
+.hero-text h2 {
+    font-size: 2rem;
+}
+.hero-text p{
+    font-size: 6rem;
+    font-weight: 700;
+}
+
+.hero img{
+    width: 25%;
+    height: 200%;
+    border-radius: 10%;
+    padding-right: 5rem;
+/*hero section */
+min-height: 0%;
+gap: 2rem; ;
+
+nav color:shape-rendering: ; ;
+
+bottom: circle ;
+
+
